@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeastCostPathGrigWrap</string>
+    <string name="tv_instruction_grig">Enter space separated numbers for a row in a single line. Use the next line for next row.</string>
+    <string name="invalid_grid_data">Invalid grid data</string>
+</resources>
